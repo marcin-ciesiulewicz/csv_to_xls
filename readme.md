@@ -1,8 +1,8 @@
-## Laravel 5.5 Import CSV Demo
+## Laravel 5.7 CSV to XLS Demo
 
 Simple project showing how to import data from CSV file, also matching CSV columns with database columns.
 
-Also showing how to deal with CSV files with/without header rows, using plain PHP functions and [maatwebsite/excel package](https://github.com/Maatwebsite/Laravel-Excel).
+Also showing how to deal with CSV files, using plain PHP functions and [maatwebsite/excel package](https://github.com/Maatwebsite/Laravel-Excel).
 
 ![Laravel Import CSV](http://webcoderpro.com/import-csv.png)
 
